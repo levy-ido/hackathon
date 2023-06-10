@@ -1,3 +1,0 @@
-C:/Users/USER/CLionProjects/hackathon/cmake-build-debug/CMakeFiles/hackathon.dir
-C:/Users/USER/CLionProjects/hackathon/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/USER/CLionProjects/hackathon/cmake-build-debug/CMakeFiles/rebuild_cache.dir
